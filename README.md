@@ -5,4 +5,4 @@
 El presente repositorio permite obtener una versión simplificada y verificable de las funcionalidades de la app: https://idepsalud21.shinyapps.io/MonitorCOVID19GBA/
 utilizando R.
 
-Los datos son utilizados son extraidos de Datos Abiertos del Estado Nacional Argentino y los Informes de Movilidad de Google.
+Los datos utilizados son extraidos de Datos Abiertos del Estado Nacional Argentino y los Informes de Movilidad de Google.
